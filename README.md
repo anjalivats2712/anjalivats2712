@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anjali vats" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77090512/118822341-b3432900-b8d5-11eb-9a8d-54008053ad05.png" alt="anjali vats" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjali vats" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77090512/118822341-b3432900-b8d5-11eb-9a8d-54008053ad05.png" alt="anjali vats" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/anjalivats2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="anjalivats2712" height="30" width="40" /></a>
 </p>
 
