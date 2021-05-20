@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Anjali Vats</h1>
+<h1 align="center">Hi there 👋🏻, I'm Anjali Vats</h1>
 <h3 align="center">Freshman at NIT,Hamirpur</h3>
 
 - 💫I’m currently learning **Django and C Programming language**
 
-- ✉️ How to reach me **anjalivats2712@gmail.com**
-
 - 🎵Things I like **Singing,Reading blogs & Travelling**
+
+- 🔰Volunteer at **SPEC and ECell NITH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
