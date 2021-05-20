@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋🏻, I'm Anjali Vats</h1>
 <h3 align="center">Freshman at NIT,Hamirpur</h3>
+- 🏤Currently pursuing **ECE,4 Years at NITH**
 
-- 💫I’m currently learning **Django and C Programming language**
+- ✨I’m currently learning **Django and C Programming language**
 
 - 🎵Things I like **Singing,Reading blogs & Travelling**
 
