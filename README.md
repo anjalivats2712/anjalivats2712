@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/anjali-vats-188305206" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77090512/118822341-b3432900-b8d5-11eb-9a8d-54008053ad05.png" alt="anjali vats" height="60" width="60" /></a>
 <a href="https://www.hackerrank.com/anjalivats2712" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77090512/118822698-0026ff80-b8d6-11eb-9fe9-36b6d8611a65.png" alt="anjalivats2712" height="50" width="50" /></a>
-<a href="anjalivats2712@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77090512/118924917-686bf480-b95b-11eb-84ac-0b38ae1b60d7.png" alt="anjalivats2712" height="60" width="60" /></a>
 
 </p>
 
