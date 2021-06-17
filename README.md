@@ -4,7 +4,7 @@
 
 - 🏤Currently pursuing **ECE,4 Years at NITH**
 
-- ✨I’m currently learning **Django and C Programming language**
+- ✨Recently learning **Javascript and C Programming language**
 
 - 🎵Things I like **Singing,Reading blogs & Travelling**
 
