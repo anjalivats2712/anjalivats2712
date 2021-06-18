@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77090512/119225578-1f19d180-bb22-11eb-81f0-6d8850549548.jpg">
+<img src="https://user-images.githubusercontent.com/77090512/122524818-37541200-d036-11eb-960f-90a78b3ed5e6.jpg">
 <h1 align="center">Hi there 👋🏻, I'm Anjali Vats</h1>
 <h3 align="center">Freshman at NIT,Hamirpur</h3>
 
