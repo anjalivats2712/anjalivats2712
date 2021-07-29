@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/77090512/122524818-37541200-d036-11eb-960f-90a78b3ed5e6.jpg">
 <h1 align="center">Hi there 👋🏻, I'm Anjali Vats</h1>
-<h3 align="center">Freshman at NIT,Hamirpur</h3>
+<h3 align="center">Sophomore at NIT,Hamirpur</h3>
 
 - 🏤Currently pursuing **ECE,4 Years at NITH**
 
