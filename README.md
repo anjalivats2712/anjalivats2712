@@ -4,7 +4,7 @@
 
 - 🏤Currently pursuing **ECE,4 Years at NITH**
 
-- ✨Recently learning **Javascript and C Programming language**
+- ✨Recently learning **Flutter and C++**
 
 - 🎵Things I like **Singing,Reading blogs & Travelling**
 
