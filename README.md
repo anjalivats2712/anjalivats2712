@@ -4,11 +4,11 @@
 
 - 🏤Currently pursuing **ECE,4 Years at NITH**
 
-- ✨Recently learning **Flutter and C++**
+- ✨Recently learning **Django and C++**
 
 - 🎵Things I like **Singing,Reading blogs & Travelling**
 
-- 🔰Volunteer at **SPEC and ECell NITH**
+- 🔰Executive Member at **SPEC NITH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
